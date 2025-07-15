@@ -3,10 +3,10 @@ $(document).ready(function () {
      * Main variables
      */
     var content = [{
-        title: "Confession",
+        title: "Hi Angelika Jenai Arboleda Apostol",
         desc: ""
     }, {
-        title: "Hi Angelika Jenai Arboleda Apostol",
+        title: "",
         desc: "I know this is so fucking hard to say but i have something to say to you"
     }, {
        title: "",
