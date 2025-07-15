@@ -3,8 +3,8 @@ $(document).ready(function () {
      * Main variables
      */
     var content = [{
-        title: "Hi Angelika Jenai Arboleda Apostol",
-        desc: "I have something to say to you"
+        title: "Confession",
+        desc: ""
     }, {
         title: "I Have Crush On You!!",
         desc: "mungkin itu sebuah kalimat yg cukup simple, kalimat yang menyimpan banyak harapan juga keraguan dibaliknya. ada harapan yg ingin rasa suka itu tidak jatuh sendirian, juga ada yg harus disiapkan agar bisa menerima konsekuensinya."
