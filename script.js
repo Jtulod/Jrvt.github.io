@@ -6,8 +6,8 @@ $(document).ready(function () {
         title: "Confession",
         desc: ""
     }, {
-        title: "I Have Crush On You!!",
-        desc: "mungkin itu sebuah kalimat yg cukup simple, kalimat yang menyimpan banyak harapan juga keraguan dibaliknya. ada harapan yg ingin rasa suka itu tidak jatuh sendirian, juga ada yg harus disiapkan agar bisa menerima konsekuensinya."
+        title: "Hi Angelika Jenai Arboleda Apostol",
+        desc: "I know this is so fucking hard to say but i have something to say to you"
     }, {
        title: "",
        desc: "menyatakan perasaan itu hal yg cukup serius, banyak yg akan dikorbankan termasuk hasil akhirnya melepas hal yg sudah Iama tersimpan itu cukup melegakan dan bukan hal yg mudah.Disini Aku cuman mau ungkapin perasaan aku sama kamu,masalah diterima atau ngga itu tergantung kamu nya,aku juga gak bakal berharap lebih kok"
