@@ -19,7 +19,7 @@ $(document).ready(function () {
         desc: "Aku tunggu Balasan Mu:)"
     }, {
         title: "qwe",
-        desc: "jenai apostol
+        desc: "jenai apostol"
  }];
     var currentPage = 0;
     //generate content
