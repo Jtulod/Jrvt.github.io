@@ -17,6 +17,9 @@ $(document).ready(function () {
     }, {
         title: "I Have Crush On You!!",
         desc: "Aku tunggu Balasan Mu:)"
+    }, {
+        title: "qwe",
+        desc: "jenai apostol
  }];
     var currentPage = 0;
     //generate content
